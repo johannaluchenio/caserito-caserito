@@ -1,0 +1,53 @@
+caseritocaserito
+
+Qué quiero que haga: 
+MVP: Que sea una web/app donde usuarios puedan vender y comprar platos caseros por zona
+
+
+Para quién es: 
+Vendedor:
+Chef que no posean un lugar físico para comercializar sus platos.
+Personas que quieran vender el plato especial que solo disfruta su familia.
+Amas de casa que quieran ganar un dinero extra.
+
+
+Comprador:
+Personas que quieran comer un plato de calidad a un costo menor que un restaurant.
+Personas que quieran organizar una vianda semanal / mensual
+
+
+¿Por qué la web/app? 
+Porque siempre hay una persona que no estudió para chef y sin embargo sabe preparar un plato en particular que gusta mucho pero solo queda entre familiares o amigos. La web/app permite ofrecer esos platos que son únicos y no se venden en ningún restaurant. 
+O aquellos chef que no poseen un lugar físico para mostrar sus platos. La web/app les da esa vidriera para ofrecer esos platos.
+
+
+Problemas que puede haber: 
+Mala calidad en los preparativos de la comida casera o en mal estado. (pero se va mejorando según las reviews y calificaciones).
+Mala presentación de los productos o platos. (Presentar tips de preparación de platos).
+Cualquier problema que surge de un e-commerce, fraude y demás.
+Falta decidir si se va a poder entregar platos caseros entre zonas lejanas.
+
+
+Features:
+
+Vendedor:
+Se puede loguear para tener una cuenta.
+Cargar los platos caseros en los que uno se especializa.
+Puede responder las consultas sobre sus platos.
+Puede compartir en redes sociales sus platos.
+Puede pagar destaques de sus productos.
+
+
+Comprador:
+Se puede loguear para tener una cuenta.
+Puede buscar por platos, zona o nombre de quién prepara.
+Puede Comprar uno o más platos
+Puede marcar como wishlist
+Puede calificar un plato y dejar un comentario.
+Puede realizar preguntas.
+Puede compartir en redes sociales.
+
+Si se maximiza:
+Agregar vinos y bebidas.
+Menús armados
+Viandas para grupos de trabajo.
